@@ -277,11 +277,11 @@ function banner
 {
 	check_wlans
 	echo -e ""
-	echo -e "$COL         ██╗      █████╗ ███████╗██╗   ██╗$CE v$VERSION"
-	echo -e "$COL         ██║     ██╔══██╗╚══███╔╝╚██╗ ██╔╝$CE"
-	echo -e "$COL         ██║     ███████║  ███╔╝  ╚████╔╝ $CE   by "$COL"ARIS MELACHROINOS$CE"
-	echo -e "$COL         ██║     ██╔══██║ ███╔╝    ╚██╔╝  $CE"
-	echo -e "$COL    The  ███████╗██║  ██║███████╗   ██║  script$CE"
+	echo -e "$COL         $
+	echo -e "$COL         卄ㄩ几几ㄚ_乃卄卂丨
+	echo -e "$COL                              by "$COL"hannan_hunny"
+	echo -e "$COL           
+	echo -e "$COL    The    script$CE"
 	echo -e "$COL         ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   $CE"
 	echo -e ""$YS"if"$CE") Ifconfig           "$YS"l"$CE") Local IPs & gateways "$RS"|"$CE"  "$YS"scan"$CE") Arp-scan network"
 	if [[ "$WLANCHECKING" = "" ]]
